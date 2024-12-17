@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
   I graduated from Tsinghua University in 2023 with a degree in Eletronic Engineering. At Tsinghua,  I was fortunate enough to do research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/).
 
-  Research: My research interests lie in generative models, in particular, video generative models and image generative models. I am also interested in optimizing GPU kernels for emerging applications, including sparse and recurrent neural networks.
+  Research: My research interests lie in generative models, in particular, video generative models and image generative models. 
 
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
