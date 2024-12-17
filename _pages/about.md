@@ -24,8 +24,6 @@ post: false
 
   I graduated from Tsinghua University in 2023 with a degree in Eletronic Engineering. At Tsinghua,  I was fortunate enough to do research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/)， where I worked with [Dr Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
 
-  I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy doing analysictal work on the mechanism of these generative models
-  
-  I have been working on generative AI (world models), object-centric learning (structured representation), and event-based vision (silicon retina).
+  I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy conducting analytical research on the mechanisms of these generative models, particularly focusing on the role of negative prompts and initial noise in image generation models, as well as the impact of positional embeddings in video diffusion models.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

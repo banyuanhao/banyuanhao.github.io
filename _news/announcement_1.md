@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk on When And How Do Negative Prompts Take Effect in Dr [Boqing Gong](http://boqinggong.info/)'s Group. Thanks Boqing for inviting me!
+Invited talk on When And How Do Negative Prompts Take Effect in [Dr Boqing Gong](http://boqinggong.info/)'s Group. Thanks Boqing for inviting me!
