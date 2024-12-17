@@ -26,4 +26,4 @@ post: false
 
   I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy conducting analytical research on the mechanisms of these generative models, particularly focusing on the role of negative prompts and initial noise in image generation models, as well as the impact of positional embeddings in video diffusion models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  Here is my [CV](). This site was last updated on December 17th, 2024.

@@ -73,6 +73,11 @@ layout: default
       </div>
     {% endif %}
 
+    {% if page.misc -%}
+      <!-- Misc -->
+      {%- include misc.html %}
+    {%- endif %}
+
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
