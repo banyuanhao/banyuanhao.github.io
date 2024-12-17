@@ -22,11 +22,10 @@ post: false
   I’m a second-year Ph.D. student in [UCLA Department of Computer Science](https://www.cs.ucla.edu/) advised by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
   I have the fortune to work with [Ruochen Wang](https://ruocwang.github.io/), [Prof. Boqing Gong](http://boqinggong.info/), [Prof. Minhao Cheng](https://cmhcbb.github.io/), and [Prof Tianyi Zhou](https://tianyizhou.github.io/).
 
-
   I graduated from Tsinghua University in 2023 with a degree in Eletronic Engineering. At Tsinghua,  I was fortunate enough to do research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/)， where I worked with [Dr Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
 
-  Research: My research interests lie in generative models, in particular, video generative models and image generative models. 
-
-  I am broadly interested in designing machine learning systems that can perceive the world as we humans do, which I believe is the cornerstone of achieving AGI. I have been working on generative AI (world models), object-centric learning (structured representation), and event-based vision (silicon retina).
+  I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy doing analysictal work on the mechanism of these generative models
+  
+  I have been working on generative AI (world models), object-centric learning (structured representation), and event-based vision (silicon retina).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
