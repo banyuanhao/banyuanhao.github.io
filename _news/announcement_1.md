@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-6-23 8:00:00-0400
+date: 2023-8-15 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I 
+Invited talk on When And How Do Negative Prompts Take Effect in Dr [Boqing Gong](http://boqinggong.info/)'s Group. Thanks Boqing for inviting me!
