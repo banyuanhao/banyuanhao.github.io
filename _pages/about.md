@@ -18,7 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+  I’m a second-year Ph.D. student in [UCLA Department of Computer Science](https://www.cs.ucla.edu/) advised by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
+
+  I graduated from Tsinghua University in 2023 with a degree in Eletronic Engineering. At Tsinghua,  I was fortunate enough to do research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/).
+
+  Research: My research interests lie in generative models. I am also interested in optimizing GPU kernels for emerging applications, including sparse and recurrent neural networks.
+
+  The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
