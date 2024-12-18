@@ -23,4 +23,4 @@ post: false
 
   I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy conducting analytical research on the mechanisms of these generative models, particularly focusing on the role of negative prompts and initial noise in image generation models, as well as the impact of positional embeddings in video diffusion models.
 
-  Here is my [CV](https://drive.google.com/file/d/103CQYif895FwHpVLYQWXWdS-DP1zjTa4/view?usp=sharing). This site was last updated on December 17th, 2024.
+  Here is my [CV](https://drive.google.com/file/d/1AcOrrPkTQOfcHGFrevFJ12OMlZxHueTX/view?usp=sharing). This site was last updated on December 17th, 2024.
