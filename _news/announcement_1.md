@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-8-15 10:00:00-0400
+date: 2025-1-22 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Invited talk on When And How Do Negative Prompts Take Effect in [Dr Boqing Gong](http://boqinggong.info/)'s Group. Thanks Boqing for inviting me!
+The Crystal Ball Hypothesis got accepted by ICLR 2025! Thank you, my talented co-workers!
