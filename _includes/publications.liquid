@@ -1,0 +1,12 @@
+<section id="publications" aria-labelledby="publications-heading">
+  <h2 id="publications-heading">publications</h2>
+  <div class="publication-controls" role="group" aria-label="Publication selection" hidden>
+    <button type="button" class="btn btn-sm z-depth-0" data-publication-filter="selected" aria-pressed="true" aria-controls="publication-list">Selected publications</button>
+    <button type="button" class="btn btn-sm z-depth-0" data-publication-filter="all" aria-pressed="false" aria-controls="publication-list">All publications</button>
+  </div>
+  <p class="publication-note">Selected publications include first-author and co-first-author papers, plus Self-Forcing++. <span aria-live="polite" id="publication-count"></span></p>
+  <div class="publications" id="publication-list">
+    {% bibliography --group_by none --sort_by year --order descending %}
+  </div>
+</section>
+<script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>

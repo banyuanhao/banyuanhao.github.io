@@ -1342,3 +1342,38 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Publication selection on the About page.
+#publications {
+  scroll-margin-top: 5rem;
+
+  .publication-controls:not([hidden]) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .publication-controls button {
+    border: 1px solid var(--global-theme-color);
+    color: var(--global-theme-color);
+
+    &[aria-pressed="true"] {
+      background-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--global-theme-color);
+      outline-offset: 3px;
+    }
+  }
+
+  .publication-note {
+    font-size: 0.9rem;
+  }
+
+  [hidden] {
+    display: none !important;
+  }
+}
