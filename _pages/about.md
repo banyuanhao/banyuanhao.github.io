@@ -16,11 +16,14 @@ social: true # includes social icons at the bottom of the page
 post: false
 ---
 
-  I’m a Ph.D. student in [UCLA Department of Computer Science](https://www.cs.ucla.edu/) advised by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
-  I have the fortune to work with [Ruochen Wang](https://ruocwang.github.io/), [Prof. Boqing Gong](http://boqinggong.info/), [Prof. Minhao Cheng](https://cmhcbb.github.io/), and [Prof Tianyi Zhou](https://tianyizhou.github.io/).
+I’m a Ph.D. student in the [UCLA Department of Computer Science](https://www.cs.ucla.edu/), advised by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
 
-  I graduated from Tsinghua University in 2023 with a degree in Electrical Engineering. At Tsinghua,  I was fortunate enough to do research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/), where I worked with [Dr Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
+I am broadly interested in post-training and agentic systems. Currently, I am working on reward modeling and reinforcement learning for text-to-image generative models.
 
-  I am broadly interested in designing controllable generative models that align with human intentions and societal values, which I believe are fundamental to achieving AGI. I enjoy conducting analytical research on the mechanisms of these generative models, particularly focusing on the role of negative prompts and initial noise in image generation models, as well as the impact of positional embeddings in video diffusion models.
+During the third year of my Ph.D., I worked on text-to-image reward modeling and post-training at [Arena Inc.](https://arena.ai/) with [I-Hung Hsu](https://ihungalexhsu.github.io/) and [Wei-Lin Chiang](https://infwinston.github.io/).
 
-  Here is my [CV](https://drive.google.com/file/d/1AcOrrPkTQOfcHGFrevFJ12OMlZxHueTX/view?usp=sharing). This site was last updated on October 5th, 2026.
+During the first two years of my Ph.D., I was fortunate to work with [Ruochen Wang](https://ruocwang.github.io/), [Prof. Boqing Gong](http://boqinggong.info/), [Prof. Minhao Cheng](https://cmhcbb.github.io/), and [Prof. Tianyi Zhou](https://tianyizhou.github.io/).
+
+I graduated from Tsinghua University in 2023 with a degree in Electrical Engineering. At Tsinghua, I was fortunate to conduct research at [TSAIL Lab](https://ml.cs.tsinghua.edu.cn/), where I worked with [Dr. Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
+
+Here is my [CV](https://drive.google.com/file/d/1AcOrrPkTQOfcHGFrevFJ12OMlZxHueTX/view?usp=sharing). This site was last updated in October 2026.
