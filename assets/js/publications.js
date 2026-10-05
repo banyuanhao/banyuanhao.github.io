@@ -9,7 +9,7 @@
     let visible = 0;
     entries.forEach((entry) => {
       const paper = entry.querySelector("[data-selected]");
-      entry.hidden = selection === "selected" && paper?.dataset.selected !== "true";
+      entry.hidden = selection === "selected" && (!paper || paper.dataset.selected !== "true");
       if (!entry.hidden) visible += 1;
     });
     buttons.forEach((button) => {
