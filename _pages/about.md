@@ -18,7 +18,7 @@ post: false
 
 I’m a Ph.D. student in the [UCLA Department of Computer Science](https://www.cs.ucla.edu/), advised by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
 
-I am broadly interested in post-training and agentic systems. Currently, I am working on reward modeling and reinforcement learning for text-to-image generative models.
+I am broadly interested in rubric rewards, post-training and agentic systems. 
 
 During the third year of my Ph.D., I worked on text-to-image reward modeling and post-training at [Arena Inc.](https://arena.ai/) with [I-Hung Hsu](https://ihungalexhsu.github.io/) and [Wei-Lin Chiang](https://infwinston.github.io/).
 
